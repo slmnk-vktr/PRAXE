@@ -6,7 +6,7 @@ dbGateway
 
 Gateway
 1) Je potřeba spustit Gateway.sln jako Administrator
-2) GatewayRest -> Properties -> App URL -> mastavit IP adresu lokálního PC, nechat port 3000
+2) GatewayRest -> Properties -> Debug -> App URL -> mastavit IP adresu lokálního PC, nechat port 3000
 3) Spustit ISS Express
 
 
