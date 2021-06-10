@@ -1,0 +1,21 @@
+Instalace:
+
+dbGateway
+1)Spustit script dbGateway.sql
+
+
+Gateway
+1) Je potřeba spustit Gateway.sln jako Administrator
+2) GatewayRest -> Properties -> App URL -> mastavit IP adresu lokálního PC, nechat port 3000
+3) Spustit ISS Express
+
+
+Android
+1) Spusti kód
+2) Povolit oprávění SMS a nastavit jako defaultní SMS aplikaci
+3) Otevřít aplikaci -> napsat IP serveru -> START SERVICE
+
+	*START SERVICE - spouští službu
+	*LOGOUT - odhlašuje zařízení 
+	*REGISTER - registruje zařízení
+	*STATUS - oznamuje zda-li má zařízení spojení se serverem

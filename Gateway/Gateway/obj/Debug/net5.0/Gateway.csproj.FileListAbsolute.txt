@@ -1,0 +1,16 @@
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\bin\Debug\net5.0\Gateway.exe
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\bin\Debug\net5.0\Gateway.deps.json
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.json
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.dev.json
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\bin\Debug\net5.0\Gateway.dll
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\bin\Debug\net5.0\ref\Gateway.dll
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\bin\Debug\net5.0\Gateway.pdb
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\Gateway.csprojAssemblyReference.cache
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfoInputs.cache
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfo.cs
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\Gateway.csproj.CoreCompileInputs.cache
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\Gateway.dll
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\ref\Gateway.dll
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\Gateway.pdb
+D:\Škola\PRAXE\3.ROČNÍK\Server\Praxe_Server\Gateway\Gateway\obj\Debug\net5.0\Gateway.genruntimeconfig.cache
