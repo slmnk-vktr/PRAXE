@@ -88,8 +88,16 @@ namespace GatewayRest.Controllers
         public IActionResult PostSentY(int ID)
         {
 
-            _smsService.PostSentY(ID);
+
+            if(_smsService.PostSentY(ID) == true)
+            {
                 return Ok();
+            }
+            else
+            {
+                return BadRequest();
+            }
+               
         }
 
 

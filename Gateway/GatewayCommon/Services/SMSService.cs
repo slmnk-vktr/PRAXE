@@ -83,17 +83,28 @@ namespace GatewayCommon.Services
         }
 
         //Mark msg as sent
-        public void PostSentY(int ID)
+        public bool PostSentY(int ID)
         {
+            bool done;
             using (var context = new MssqlContext())
             {
                 var query = from u in context.SMS
                             where u.ID == ID
                             select u;
-                var SMS = query.Single();
-
-                SMS.Sent = "y";
-                context.SaveChanges();
+                SMS SMS;
+                try
+                {
+                    SMS = query.Single();
+                    SMS.Sent = "y";
+                    context.SaveChanges();
+                    done = true;
+                }
+                catch(Exception e)
+                {
+                    done = false;
+                }
+                return done;
+             
             }
         }
 

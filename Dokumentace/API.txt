@@ -1,0 +1,18 @@
+******************
+SMS GATEWAY SERVER
+******************
+
+***/api/sms/
+
+**HttpGet	/api/sms/{ID} 		=> int ID; 			vrací zprávu pro dané {ID}; Neexistuje-li zpráva pro dané {ID} -> 0;
+**HttpPost	/api/sms/{msg}/{phone} 	=> sting msg, int phone;	uloží zprávu({msg}) a telefoní číslo({phone}) na které bude daná zpráva poslána; nemá-li phone 9 znaků -> error; je-li neodeslaná SMS -> error;
+**HttpPost	/api/sms/{ID} 		=> int ID; 			označí zprávu s daným {ID} za odeslanou; 
+**HttpGet	/api/sms/ 		=> null; 			pošle {ID} zprávy, která není odeslaná; neexistuje-li zpráva -> 0;
+
+
+***/api/user/
+
+**HttpPost	/api/user/{deviceInfo}	=> string deviceInfo; 	zaregistruje nového uživatele s údaji z {deviceInfo}; existuje-li už user -> "User already exists"
+**HttpGet	/api/user/{ID}		=> int ID; 			zjišťuje, zda-li existuje user s {ID} -> bool(true/false)
+**HttpDelete 	/api/user/{deviceInfo}	=> string deviceInfo; 	smaže user s údaji z {deviceInfo}; neexistuje-li user -> "No such user is registered"
+**HttpGet	/api/user/{deviceInfo}	=> string deviceInfo; 	zjišťuje zda-li existuje user s údaji z {deviceInfo} -> bool(true/false)

@@ -13,9 +13,9 @@ Gateway
 Android
 1) Spusti kód
 2) Povolit oprávění SMS a nastavit jako defaultní SMS aplikaci
-3) Otevřít aplikaci -> napsat IP serveru -> START SERVICE
+3) Otevřít aplikaci -> zadat IP serveru -> START SERVICE
 
 	*START SERVICE - spouští službu
 	*LOGOUT - odhlašuje zařízení 
 	*REGISTER - registruje zařízení
-	*STATUS - oznamuje zda-li má zařízení spojení se serverem
+	*STATUS - oznamuje stav spojení se serverem

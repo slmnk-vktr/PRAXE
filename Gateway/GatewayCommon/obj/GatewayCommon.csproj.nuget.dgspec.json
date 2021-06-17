@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\Github\\PRAXE\\Gateway\\GatewayCommon\\GatewayCommon.csproj",
         "projectName": "GatewayCommon",
         "projectPath": "D:\\Github\\PRAXE\\Gateway\\GatewayCommon\\GatewayCommon.csproj",
-        "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\HAL _9000\\.nuget\\packages\\",
         "outputPath": "D:\\Github\\PRAXE\\Gateway\\GatewayCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HAL _9000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
